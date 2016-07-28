@@ -1,0 +1,30 @@
+c:\users\acer\documents\visual studio 2012\Projects\juegoVIVORAconVECTOR\juegoVIVORAconVECTOR\bin\Debug\juegoVIVORAconVECTOR.exe.config
+c:\users\acer\documents\visual studio 2012\Projects\juegoVIVORAconVECTOR\juegoVIVORAconVECTOR\bin\Debug\juegoVIVORAconVECTOR.exe
+c:\users\acer\documents\visual studio 2012\Projects\juegoVIVORAconVECTOR\juegoVIVORAconVECTOR\bin\Debug\juegoVIVORAconVECTOR.pdb
+c:\users\acer\documents\visual studio 2012\Projects\juegoVIVORAconVECTOR\juegoVIVORAconVECTOR\obj\Debug\juegoVIVORAconVECTOR.exe
+c:\users\acer\documents\visual studio 2012\Projects\juegoVIVORAconVECTOR\juegoVIVORAconVECTOR\obj\Debug\juegoVIVORAconVECTOR.pdb
+c:\users\acer\documents\visual studio 2012\Projects\juegoVIVORAconVECTOR\juegoVIVORAconVECTOR\obj\Debug\juegoVIVORAconVECTOR.csprojResolveAssemblyReference.cache
+C:\Users\JEREMIAS\Desktop\juegoVIVORAconVECTOR\juegoVIVORAconVECTOR\bin\Debug\juegoVIVORAconVECTOR.exe.config
+C:\Users\JEREMIAS\Desktop\juegoVIVORAconVECTOR\juegoVIVORAconVECTOR\obj\Debug\juegoVIVORAconVECTOR.exe
+C:\Users\JEREMIAS\Desktop\juegoVIVORAconVECTOR\juegoVIVORAconVECTOR\obj\Debug\juegoVIVORAconVECTOR.csprojResolveAssemblyReference.cache
+C:\Users\JEREMIAS\Desktop\juegoVIVORAconVECTOR\juegoVIVORAconVECTOR\bin\Debug\juegoVIVORAconVECTOR.exe
+C:\Users\JEREMIAS\Desktop\juegoVIVORAconVECTOR\juegoVIVORAconVECTOR\bin\Debug\juegoVIVORAconVECTOR.pdb
+C:\Users\JEREMIAS\Desktop\juegoVIVORAconVECTOR\juegoVIVORAconVECTOR\obj\Debug\juegoVIVORAconVECTOR.pdb
+C:\Users\Acer\Downloads\vivora mejorada\juegoVIVORAconVECTOR\bin\Debug\juegoVIVORAconVECTOR.exe.config
+C:\Users\Acer\Downloads\vivora mejorada\juegoVIVORAconVECTOR\obj\Debug\juegoVIVORAconVECTOR.exe
+C:\Users\Acer\Downloads\vivora mejorada\juegoVIVORAconVECTOR\obj\Debug\juegoVIVORAconVECTOR.pdb
+C:\Users\Acer\Downloads\vivora mejorada\juegoVIVORAconVECTOR\bin\Debug\juegoVIVORAconVECTOR.exe
+C:\Users\Acer\Downloads\vivora mejorada\juegoVIVORAconVECTOR\bin\Debug\juegoVIVORAconVECTOR.pdb
+C:\Users\Acer\Downloads\vivora mejorada\juegoVIVORAconVECTOR\obj\Debug\juegoVIVORAconVECTOR.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\100ejercicios de estructura\vivora mejorada\juegoVIVORAconVECTOR\bin\Debug\juegoVIVORAconVECTOR.exe.config
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\100ejercicios de estructura\vivora mejorada\juegoVIVORAconVECTOR\obj\Debug\juegoVIVORAconVECTOR.exe
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\100ejercicios de estructura\vivora mejorada\juegoVIVORAconVECTOR\obj\Debug\juegoVIVORAconVECTOR.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\100ejercicios de estructura\vivora mejorada\juegoVIVORAconVECTOR\bin\Debug\juegoVIVORAconVECTOR.exe
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\100ejercicios de estructura\vivora mejorada\juegoVIVORAconVECTOR\bin\Debug\juegoVIVORAconVECTOR.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\100ejercicios de estructura\vivora mejorada\juegoVIVORAconVECTOR\obj\Debug\juegoVIVORAconVECTOR.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\100ejercicios de estructura\vivora mejorada\juegoVIVORAconVECTOR\bin\Debug\juegoVIVORAconVECTOR.exe.config
+D:\Visual Studio 2012\Projects\100ejercicios de estructura\vivora mejorada\juegoVIVORAconVECTOR\obj\Debug\juegoVIVORAconVECTOR.exe
+D:\Visual Studio 2012\Projects\100ejercicios de estructura\vivora mejorada\juegoVIVORAconVECTOR\obj\Debug\juegoVIVORAconVECTOR.pdb
+D:\Visual Studio 2012\Projects\100ejercicios de estructura\vivora mejorada\juegoVIVORAconVECTOR\bin\Debug\juegoVIVORAconVECTOR.exe
+D:\Visual Studio 2012\Projects\100ejercicios de estructura\vivora mejorada\juegoVIVORAconVECTOR\bin\Debug\juegoVIVORAconVECTOR.pdb
+D:\Visual Studio 2012\Projects\100ejercicios de estructura\vivora mejorada\juegoVIVORAconVECTOR\obj\Debug\juegoVIVORAconVECTOR.csprojResolveAssemblyReference.cache
